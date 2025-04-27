@@ -23,11 +23,10 @@ CSS3
 JavaScript (Vanilla JS)
 
 🔗 Links:
-Live Demo: View Here
+Live Demo: www.ks-company.in
 
 Contact Me: Send a Message
 
-Portfolio (optional): My Portfolio
 
 🛠 Other Features:
 SEO-friendly structure
